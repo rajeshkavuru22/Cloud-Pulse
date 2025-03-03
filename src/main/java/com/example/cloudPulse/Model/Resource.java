@@ -1,10 +1,9 @@
 package com.example.cloudPulse.Model;
 
-import jakarta.persistence.Entity;
-import lombok.Data;
+//import jakarta.persistence.Entity;
+//import lombok.Data;
+//import lombok.NonNull;
 
-@Data
-@Entity
 public class Resource {
     private String version;
     private String discoveryDocumentUri;
